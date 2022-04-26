@@ -1,0 +1,4 @@
+- 👋 meu nome é pettersonklentz
+- 👀 estou procurando novas linguagens de programação
+- 🌱 estou aprendendo linguagem JavaScript e Scratch
+- 📫 meu contato é [imail](petterson.klentz@escola.pr.gov.br)
